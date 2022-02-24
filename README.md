@@ -2,6 +2,11 @@
 ## Instructions
 ***This project is built using React and Webpack***
 
+Please visite the below link to view the webpage:
+https://heshameltobgy81.github.io/products-management-solutions
+
+or if you would like to install it on your computer, you can do the below:
+
 In order to view this project you need to have the following:
 1. Node (https://nodejs.org/en/)__
 2. Yarn (https://classic.yarnpkg.com/en/docs/install)
