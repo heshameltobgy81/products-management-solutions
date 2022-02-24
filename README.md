@@ -1,4 +1,4 @@
-# Products Management Solution
+# Products Management Solutions
 ## Instructions
 ***This project is built using React and Webpack***
 
