@@ -55,7 +55,7 @@ const Home = ({productValues, productLabels}) => {
                           let text = "Are you sure you want to delete this row?";
                           if (confirm(text) == true) {
                              handleRemove(productValue.id)
-                          }}}>Close</button>
+                          }}}>Delete</button>
                     </td>
                     </tr>
                 )}
